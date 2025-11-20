@@ -1,1 +1,1 @@
-# Algoritmica-num-rica
+# Algoritmica-numerica
